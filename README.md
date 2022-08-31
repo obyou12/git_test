@@ -12,3 +12,5 @@ This is going to be mergage.
 Trying out git diff
 
 We are going to push to main and learn about rebase.
+
+Now, going to learn REAL REBASe RIGHT NOWOOWWWOWs
